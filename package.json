@@ -1,6 +1,6 @@
 {
   "name": "sarina.web",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sarina Web Server plugin",
   "main": "web.js",
   "keywords": [
