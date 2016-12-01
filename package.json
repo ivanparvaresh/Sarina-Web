@@ -1,0 +1,31 @@
+{
+  "name": "sarina.web",
+  "version": "1.0.1",
+  "description": "Sarina Web Server plugin",
+  "main": "web.js",
+  "keywords": [
+      "node",
+      "web",
+      "sarina.express",
+      "sarina"
+  ],
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "sarina.express":"^1.0.5",
+    "vash":"^0.12.2"
+  },
+  "devDependencies": {
+    "gulp":"~3.9.1",
+    "gulp-mocha":"~2.2.0",
+    "chai":"~3.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javadparvaresh/Sarina-Web.git"
+  },
+  "author": "javadparvaresh@gmail.com",
+  "license": "MIT",
+  "homepage": "https://github.com/javadparvaresh/Sarina-Web/"
+}
